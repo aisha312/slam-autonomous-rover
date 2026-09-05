@@ -78,6 +78,11 @@ a fixed, pre-programmed path.
 Ayesha Ahmed, Rimsha Kousar, Shahzadi Aniqa Zafar — supervised by Engr. Mohammad
 Haroon Waseem, Department of Electronic Engineering, Fatima Jinnah Women University.
 
+## Credits
+
+  * The ROS2 robot description (URDF/xacro) and sensor launch files were adapted 
+   from publicly available ROS2 tutorial resources and customized for our 
+   specific hardware (RPLIDAR A1, Kinect 360, custom chassis dimensions).*
 ---
 *Full dissertation available on request.
 *
