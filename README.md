@@ -6,7 +6,7 @@ A four-wheeled autonomous rover that maps its surroundings and navigates to a ta
 location — indoors or outdoors — without any pre-planned path, using SLAM, LIDAR,
 and an RGB-D camera on top of ROS2.
 
-![Robot with full hardware setup](readme_images/robot-000.png)
+![Robot with full hardware setup]
 "https://github.com/user-attachments/assets/154ce036-f860-4cf7-84fe-1bc360460003"
 
 ## Problem
@@ -52,7 +52,9 @@ industrial-grade hardware.
   plans a route, navigates around obstacles, and delivers a payload from its onboard
   storage compartment.
 
-![Robot autonomously navigating to a delivery target](readme_images/nav-000.png)
+![Robot autonomously navigating to a delivery target]
+"https://github.com/user-attachments/assets/2c9454c2-16d6-49ec-8699-c948f3aaf76f"
+
 *RViz2 view: LIDAR scan (white/magenta points), live map, and the planned path (green
 arrow) toward the assigned goal.*
 
